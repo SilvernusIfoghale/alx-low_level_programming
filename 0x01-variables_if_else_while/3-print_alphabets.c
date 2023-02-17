@@ -7,7 +7,7 @@
 
 int main(void)
 {
-	char a;
+	char c;
 	char d;
 
 	c = 'a';
