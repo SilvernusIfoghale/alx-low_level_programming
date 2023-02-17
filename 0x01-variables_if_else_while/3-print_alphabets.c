@@ -22,7 +22,8 @@ int main(void)
 		(d <= 'Z')
 		{
 			putchar(d);
-			putchar('\n');
+			d++;
 		}
+	putchar('\n');
 	return (0);
 }
