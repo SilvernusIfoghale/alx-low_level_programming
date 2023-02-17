@@ -1,9 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/* main - A programa that displays values */
 
-/* Return: 0 (Success) */
+/**
+ *  main - Entry point
+ *
+ * Return: 0 (Success)
+ */
 int main(void)
 {
 	int n
