@@ -11,13 +11,11 @@ int main(void)
 
 	c = 0;
 	while
-	{
 		(c < 10)
 		{
 			putchar(c + '0');
 			c++;
 		}
 		purchar('\n');
-	}
-	return (0);
+		return (0);
 }
