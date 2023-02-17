@@ -10,10 +10,10 @@ char c;
 
 c = 'a';
 while
-(c <= 'z')
-{putchar('\n');
-c++;
-}
+	(c <= 'z')
+	{ putchar(c);
+		c++;
+	}
 putchar('\n');
 return (0);
-}
+}}
