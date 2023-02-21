@@ -3,7 +3,7 @@
 /**
  * main - Prints the sum of even fibonacci
  *
- * Rturn: 0 (Success)
+ * Return: 0 (Success)
  */
 int main(void)
 {
