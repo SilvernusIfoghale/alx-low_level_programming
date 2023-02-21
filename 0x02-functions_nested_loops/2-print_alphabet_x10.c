@@ -1,17 +1,22 @@
 #include "main.h"
 
 /**
- * main - A program that prints Alphabets
+ * print_alphabet_x10 - A program that prints Alphabets
  *
  * Return: void
  */
-int print_alphabet(void)
+int print_alphabet_x10(void)
 {
 	char c;
+	int i = 0;
 
-	for (c = 'a'; c <= 'z'; c++)
+	while (i <= 9)
 	{
-		_putchar(c);
+		for (c = 'a'; c <= 'z'; c++)
+		{
+			_putchar(c);
+		}
+		_putchar('\n');
+		i++
 	}
-	_putchar('\n');
 }
