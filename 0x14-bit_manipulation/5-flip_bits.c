@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * flip_bits - counts and initialize bits 
- * 
+ * flip_bits - counts and initialize bits
+ *
  * @n: first number
  * @m: next number
  *
